@@ -11,10 +11,11 @@ class Leonardo:
        self.study= 'Matemática - UFRRJ'
        
        self.code = {           
-           'backend': ['Python','Java'],
-           'frontend':['HTML', 'CSS', 'JavaScript'],
+           'backend': ['Python','NodeJS'],
+           'frontend':['HTML', 'CSS', 'JavaScript','TypeScript'],
+           'frameworks':['React/NextJS','ReactNative'],
            'database': ['SQL Server', 'PostgreSQL','MySQL'],
-           'tools': ['GIT', 'GitHub'],         
+           'tools': ['GIT', 'GitHub','Jira','Kanban','Notion'],         
        }
        
 
