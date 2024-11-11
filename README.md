@@ -12,10 +12,10 @@ class Leonardo:
        
        self.code = {           
            'backend': ['Python','NodeJS'],
-           'frontend':['HTML', 'CSS', 'JavaScript','TypeScript'],
-           'frameworks':['React/NextJS','ReactNative'],
-           'database': ['SQL Server', 'PostgreSQL','MySQL'],
-           'tools': ['GIT', 'GitHub','Jira','Kanban','Notion'],         
+           'frontend':['HTML','CSS', 'JavaScript','TypeScript'],
+           'frameworks':['React','VueJS/NextJS','ReactNative'],
+           'database': ['SQL Server','PostgreSQL','MySQL'],
+           'tools': ['GIT','GitHub','AWS','Jira','Kanban','Notion'],         
        }
        
 
